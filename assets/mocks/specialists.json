@@ -1,0 +1,336 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Emma Kathrin",
+    "image": "https://picsum.photos/300",
+    "specialty": "Cardiologist",
+    "rating": 4.3,
+    "years": 14,
+    "patients": 125,
+    "appointment": {
+      "fee": 1000.0,
+      "currency": "$",
+      "durationMin": 30,
+      "name": "Evercare Hospital Ltd.",
+      "location": "Boshundhora, Dhaka"
+    },
+    "dates": [
+      {
+        "name": "Today",
+        "numberOfSLots": 0,
+        "slots": [
+          {
+            "from": "06:00",
+            "to": "06:30"
+          },
+          {
+            "from": "06:30",
+            "to": "07:00"
+          },
+          {
+            "from": "07:00",
+            "to": "07:30"
+          }
+        ]
+      },
+      {
+        "name": "Tomorrow",
+        "numberOfSLots": 20,
+        "slots": [
+          {
+            "from": "09:00",
+            "to": "09:30"
+          },
+          {
+            "from": "10:00",
+            "to": "10:30"
+          },
+          {
+            "from": "11:00",
+            "to": "11:30"
+          },
+          {
+            "from": "12:00",
+            "to": "12:30"
+          },
+          {
+            "from": "01:00",
+            "to": "01:30"
+          },
+          {
+            "from": "02:00",
+            "to": "02:30"
+          },
+          {
+            "from": "03:00",
+            "to": "03:30"
+          },
+          {
+            "from": "04:00",
+            "to": "04:30"
+          }
+        ]
+      },
+      {
+        "name": "Fri, 21 Jun",
+        "numberOfSLots": 5,
+        "slots": [
+          {
+            "from": "09:00",
+            "to": "09:30"
+          },
+          {
+            "from": "10:00",
+            "to": "10:30"
+          },
+          {
+            "from": "11:00",
+            "to": "11:30"
+          },
+          {
+            "from": "12:00",
+            "to": "12:30"
+          },
+          {
+            "from": "01:00",
+            "to": "01:30"
+          }
+        ]
+      },
+      {
+        "name": "Sat, 22 Jun",
+        "numberOfSLots": 12,
+        "slots": [
+          {
+            "from": "09:00",
+            "to": "09:30"
+          },
+          {
+            "from": "10:00",
+            "to": "10:30"
+          },
+          {
+            "from": "11:00",
+            "to": "11:30"
+          }
+        ]
+      },
+      {
+        "name": "Sun, 23 Jun",
+        "numberOfSLots": 1,
+        "slots": [
+          {
+            "from": "09:00",
+            "to": "09:30"
+          }
+        ]
+      }
+    ],
+    "timings": [
+      {
+        "day": "Monday",
+        "time": "09:00 AM - 05:00 PM"
+      },
+      {
+        "day": "Tuesday",
+        "time": "09:00 AM - 05:00 PM"
+      },
+      {
+        "day": "Wednesday",
+        "time": "09:00 AM - 01:00 PM"
+      }
+    ],
+    "locations": [
+      {
+        "id": 1,
+        "city": "Shahbag",
+        "location": "MSSMU - Bangabandhu"
+      },
+      {
+        "id": 2,
+        "city": "Boshundhora",
+        "location": "Evercare Hospital Ltd"
+      },
+      {
+        "id": 3,
+        "city": "Banani",
+        "location": "Evercare Hospital Ltd"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Dr. John Doe",
+    "image": "https://picsum.photos/301",
+    "specialty": "Dentist",
+    "rating": 4.7,
+    "years": 10,
+    "patients": 200,
+    "appointment": {
+      "fee": 800.0,
+      "currency": "$",
+      "durationMin": 20,
+      "name": "City Dental Clinic",
+      "location": "Gulshan, Dhaka"
+    },
+    "dates": [
+      {
+        "name": "Today",
+        "numberOfSLots": 3,
+        "slots": [
+          {
+            "from": "10:00",
+            "to": "10:20"
+          },
+          {
+            "from": "11:00",
+            "to": "11:20"
+          },
+          {
+            "from": "12:00",
+            "to": "12:20"
+          }
+        ]
+      },
+      {
+        "name": "Tomorrow",
+        "numberOfSLots": 15,
+        "slots": [
+          {
+            "from": "09:00",
+            "to": "09:20"
+          },
+          {
+            "from": "10:00",
+            "to": "10:20"
+          },
+          {
+            "from": "11:00",
+            "to": "11:20"
+          },
+          {
+            "from": "12:00",
+            "to": "12:20"
+          },
+          {
+            "from": "01:00",
+            "to": "01:20"
+          },
+          {
+            "from": "02:00",
+            "to": "02:20"
+          },
+          {
+            "from": "03:00",
+            "to": "03:20"
+          }
+        ]
+      }
+    ],
+    "timings": [
+      {
+        "day": "Monday",
+        "time": "10:00 AM - 06:00 PM"
+      },
+      {
+        "day": "Tuesday",
+        "time": "10:00 AM - 06:00 PM"
+      },
+      {
+        "day": "Wednesday",
+        "time": "10:00 AM - 02:00 PM"
+      }
+    ],
+    "locations": [
+      {
+        "id": 1,
+        "city": "Gulshan",
+        "location": "City Dental"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Dr. Sarah Lee",
+    "image": "https://picsum.photos/302",
+    "specialty": "Pediatrician",
+    "rating": 4.9,
+    "years": 8,
+    "patients": 180,
+    "appointment": {
+      "fee": 900.0,
+      "currency": "$",
+      "durationMin": 25,
+      "name": "Children's Health Center",
+      "location": "Dhanmondi, Dhaka"
+    },
+    "dates": [
+      {
+        "name": "Today",
+        "numberOfSLots": 2,
+        "slots": [
+          {
+            "from": "11:00",
+            "to": "11:25"
+          },
+          {
+            "from": "12:00",
+            "to": "12:25"
+          }
+        ]
+      },
+      {
+        "name": "Tomorrow",
+        "numberOfSLots": 10,
+        "slots": [
+          {
+            "from": "09:00",
+            "to": "09:25"
+          },
+          {
+            "from": "10:00",
+            "to": "10:25"
+          },
+          {
+            "from": "11:00",
+            "to": "11:25"
+          },
+          {
+            "from": "12:00",
+            "to": "12:25"
+          },
+          {
+            "from": "01:00",
+            "to": "01:25"
+          }
+        ]
+      }
+    ],
+    "timings": [
+      {
+        "day": "Monday",
+        "time": "08:00 AM - 04:00 PM"
+      },
+      {
+        "day": "Tuesday",
+        "time": "08:00 AM - 04:00 PM"
+      },
+      {
+        "day": "Wednesday",
+        "time": "08:00 AM - 12:00 PM"
+      }
+    ],
+    "locations": [
+      {
+        "id": 1,
+        "city": "Dhanmondi",
+        "location": "Children's Health Center"
+      },
+      {
+        "id": 2,
+        "city": "Mirpur",
+        "location": "City Hospital"
+      }
+    ]
+  }
+]

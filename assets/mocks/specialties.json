@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Eye Specialist",
+    "icon": "troubleshoot_sharp"
+  },
+  {
+    "id": 2,
+    "name": "Dentist",
+    "icon": "local_hospital"
+  },
+  {
+    "id": 3,
+    "name": "Cardiologist",
+    "icon": "heart_broken"
+  },
+  {
+    "id": 4,
+    "name": "Neurologist",
+    "icon": "local_hospital"
+  },
+  {
+    "id": 5,
+    "name": "Orthopedic",
+    "icon": "orthopedic.png"
+  },
+  {
+    "id": 6,
+    "name": "Pediatrician",
+    "icon": "pediatrician.png"
+  }
+]
